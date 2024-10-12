@@ -24,6 +24,7 @@ It's best to take a look at the [Sample Project](https://github.com/Voyonic-Syst
 Add references to the following packages:
 ```xml
 <PackageReference Include="Echoes" Version=".."/>
+<PackageReference Include="Echoes.Avalonia" Version=".."/>
 <PackageReference Include="Echoes.Generator" Version=".."/>
 ```
 

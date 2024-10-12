@@ -23,7 +23,7 @@
 
     <ItemGroup>
         <ProjectReference Include="..\Echoes.SampleApp.Translations\Echoes.SampleApp.Translations.csproj" />
-        <ProjectReference Include="..\Echoes\Echoes.csproj" />
+        <ProjectReference Include="..\Echoes.Avalonia\Echoes.Avalonia.csproj" />
     </ItemGroup>
 
     <ItemGroup>
